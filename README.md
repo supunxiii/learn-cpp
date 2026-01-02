@@ -2,8 +2,6 @@
 
 learn-cpp is a code-short note to understand the basics of C++, designed as a simple, code-first learning aid. To learn, users can uncomment the code lines and execute the file to see how each concept works in practice. It briefly covers core theory such as data types, variables, constants, namespaces, type conversions, input handling, operators, control flow, loops, functions, arrays, pointers, recursion, structs, classes, constructors, inheritance, and templates.
 
-Designed and developed by Supun Wijesooriya.
-
 ![C++](https://img.shields.io/badge/C%2B%2B-23-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
 ## Features
@@ -88,15 +86,11 @@ To run the notes locally, follow these steps:
    ./helloworld
    ```
 
-## User Interfaces
-
-This project is a console-based learning note and does not include graphical user interfaces.
-
 ## Developer
 
 This project was developed by:
 
-- **Supun Wijesooriya**
+- **Supun Wijesooriya** - Developer
 
 ## Contributing
 
